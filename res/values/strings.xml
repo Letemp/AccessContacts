@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AccessContacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">姓名</string>
+    <string name="phone">电话号码</string>
+    <string name="add">添加</string>
+    <string name="show">显示所有联系人</string>
+    <string name="id">ID号</string>
+
+</resources>

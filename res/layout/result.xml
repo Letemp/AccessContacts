@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"    
+    android:orientation="horizontal">
+            <TextView
+                android:id="@+id/personid"
+                android:layout_width="40dp"
+                style="@style/TextView"               
+                android:text="@string/id" />
+            <TextView
+                android:id="@+id/personname"
+                android:layout_width="50dp"
+                style="@style/TextView" 
+                android:text="@string/name"
+                />
+            <TextView
+                android:id="@+id/personnum"
+                android:layout_width="110dp"
+                android:text="@string/phone"
+                style="@style/TextView" 
+                />
+
+           
+</LinearLayout>
